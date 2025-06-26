@@ -8,6 +8,9 @@ Wacky Wheels is a **high-octane**, **physics-based driving game** that throws pl
 ## 🛠️ Technologies Used
 
 - **Unity**
+- **Unity UI / UGUI (Interface Design)**
+- **C#**
+- **VS Code** (development IDE)
 
 ---
 
