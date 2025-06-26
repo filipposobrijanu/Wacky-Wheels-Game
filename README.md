@@ -13,7 +13,7 @@ Wacky Wheels is a **high-octane**, **physics-based driving game** that throws pl
 - **VS Code** (development IDE)
 
 ---
-![screenshot](images/1.png)
+![screenshot](Images/1.PNG)
 
 ## 📄 License
 
