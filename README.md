@@ -20,6 +20,7 @@ Wacky Wheels is a **high-octane**, **physics-based driving game** that throws pl
 
 This project is open-source.
 
+![screenshot](Images/4.PNG)
 ![screenshot](Images/6.PNG)
 ---
 
