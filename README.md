@@ -1,7 +1,7 @@
 
 # 🎮 Wacky Wheels Game
 
-Wacky Wheels is a chaotic driving game where you navigate through wild, obstacle-filled levels! Unlock new cars, master tricky tracks, and survive the madness in this fast-paced, adrenaline-pumping arcade adventure.
+Wacky Wheels is a **high-octane**, **physics-based driving game** that throws players into a whirlwind of absurd challenges and outrageous tracks! Race through chaotic, **obstacle-laden courses** filled with traps, and unpredictable hazards—where every turn could send you flipping, spinning, or soaring into hilarious disaster. Unlock a wild roster of **customizable vehicles**, each with unique handling and quirks, as you master increasingly insane levels designed to test your reflexes and creativity.
 
 ---
 
